@@ -1,0 +1,23 @@
+﻿# =============== C# / .NET ===============
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.sln.bak
+
+# =============== Visual Studio Code ===============
+.vscode/
+.vs/
+
+# =============== Outros ===============
+*.db
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+packages/
+node_modules/
+Thumbs.db
+.DS_Store
